@@ -1,2 +1,3 @@
-# rust-playpen
-My adventures learning Rust
+# Rust Playpen
+
+My adventures learning Rust.
