@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "the-book/ch1/Cargo.toml",
+        "the-book/ch2/Cargo.toml",
+    ]
+}
