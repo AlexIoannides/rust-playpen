@@ -1,3 +1,6 @@
-# Chapter 4 - TODO
+# Chapter 4 - Ownership and Borrowing Rules
 
-- TODO
+- Scopes;
+- Ownership;
+- Borrowing (with references); and,
+- Slices
