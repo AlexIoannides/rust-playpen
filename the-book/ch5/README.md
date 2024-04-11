@@ -1,3 +1,5 @@
 # Chapter 5 - Structs
 
-- TODO
+- Defining structs;
+- methods; and,
+- associated functions and alternate constructrs.
