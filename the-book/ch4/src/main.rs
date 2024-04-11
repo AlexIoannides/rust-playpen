@@ -1,4 +1,4 @@
-// Taken from Chapter 3 of The Rust Programming Language
+// Taken from Chapter 4 of The Rust Programming Language
 
 fn main() {
     // ~~~~~~~~~~~~
