@@ -1,3 +1,6 @@
 # Chapter 6 - Enums and Pattern Matching
 
-- TODO
+- Enumerations;
+- Enumerations with structs and methods;
+- Pattern matching & control flow with structs; and,
+- Thw option-some-none pattern.
