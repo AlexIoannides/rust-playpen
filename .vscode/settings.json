@@ -10,5 +10,6 @@
         "the-book/ch8/Cargo.toml",
         "the-book/ch9/Cargo.toml",
         "the-book/ch10/Cargo.toml",
+        "the-book/ch11/Cargo.toml",
     ]
 }
