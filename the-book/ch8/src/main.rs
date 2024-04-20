@@ -1,4 +1,4 @@
-// Taken from Chapter 7 of The Rust Programming Language
+// Taken from Chapter 8 of The Rust Programming Language
 
 use std::collections::HashMap;
 
