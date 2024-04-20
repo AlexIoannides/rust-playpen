@@ -1,5 +1,4 @@
 # Chapter 8 - Collections
 
-- Vectors;
-- Strings; and,
+- Vectors; and,
 - Hash Maps.
