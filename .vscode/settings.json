@@ -3,5 +3,12 @@
         "the-book/ch1/Cargo.toml",
         "the-book/ch2/Cargo.toml",
         "the-book/ch3/Cargo.toml",
+        "the-book/ch4/Cargo.toml",
+        "the-book/ch5/Cargo.toml",
+        "the-book/ch6/Cargo.toml",
+        "the-book/ch7/Cargo.toml",
+        "the-book/ch8/Cargo.toml",
+        "the-book/ch9/Cargo.toml",
+        "the-book/ch10/Cargo.toml",
     ]
 }
