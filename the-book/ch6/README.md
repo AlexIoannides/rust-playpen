@@ -3,4 +3,4 @@
 - Enumerations;
 - Enumerations with structs and methods;
 - Pattern matching & control flow with structs; and,
-- Thw option-some-none pattern.
+- The option-some-none pattern.
