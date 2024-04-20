@@ -1,3 +1,5 @@
-# Chapter 10 - Test Automation
+# Chapter 10 - Generics, Traits and Lifetimes
 
-- TODO
+- Generics;
+- Traits (interfaces); and,
+- Lifetimes.
