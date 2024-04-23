@@ -13,5 +13,7 @@
         "the-book/ch11/Cargo.toml",
         "the-book/ch12/Cargo.toml",
         "the-book/ch13/Cargo.toml",
-    ]
+        "the-book/ch14/Cargo.toml",
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false
 }
