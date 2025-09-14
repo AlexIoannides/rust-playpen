@@ -17,7 +17,7 @@ fn main() {
             .read_line(&mut guess)
             .expect("Failed to read line");
     
-        let guess: u32 = match guess.trim().parse() {  // examle of shadowing
+        let guess: u32 = match guess.trim().parse() {  // example of shadowing
             Ok(num) => num,
             Err(_) => continue,
         };

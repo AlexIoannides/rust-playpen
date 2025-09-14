@@ -1,5 +1,5 @@
 // Taken from Chapter 10 of The Rust Programming Language
-// --> define an interface using via the Shape trait
+// --> define an interface using the Shape trait
 // --> define a print_area function that will work with any generic type that implements the Shape trait
 
 trait Shape {

@@ -14,7 +14,7 @@ fn main() {
     };
     println!("y = {y}");
 
-    // at the most formal level (in this instance acking like an anonymous function)
+    // at the most formal level (in this instance acting like an anonymous function)
     let f = |x: f32| -> f32 {
         x * x
     };
